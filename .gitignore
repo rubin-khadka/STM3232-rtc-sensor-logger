@@ -2,7 +2,7 @@
 
 # MDK-ARM Git ignore
 MDK-ARM/DebugConfig/
-MDK-ARM/prj_uart_lcd/
+MDK-ARM/prj_stm32_rtc_logger/
 MDK-ARM/RTE/
 MDK-ARM/*.scvd
 MDK-ARM/*.uvguix.*
